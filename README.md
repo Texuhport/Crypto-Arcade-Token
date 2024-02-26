@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     
 # Blockchain Arcade Token
@@ -69,4 +70,5 @@ This includes the function that allows patrons to **buy tokens** as well as othe
 
 
 # SUCCESS - Thank you :D
+
 
