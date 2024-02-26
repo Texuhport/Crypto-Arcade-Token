@@ -22,6 +22,7 @@ In this file I created the framework for an arcade system that allows people to 
 
 ## Able to successfully compile the KaseiCoin CrowdsaleDeployer function
 ### Had to use Solidity 0.5.7 to make it compile
+
 ![Screenshot 1](Resources/KasCrowdDepCompile.png)
 
 # Deploy phase 
@@ -29,6 +30,7 @@ In this file I created the framework for an arcade system that allows people to 
 ### I deploy the Deployment Contract
 I submit parameters for how I would like to name my new Token and what wallet I want to store them in.
 I'm going to name my coin *'UpperKasei'* to represent a *'premium'* Arcade Token
+
 ![Screenshot 1](Resources/DeployKaiseDeployer.png)
 
 
